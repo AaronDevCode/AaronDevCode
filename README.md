@@ -38,6 +38,9 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=007ACC&style=for-the-badge&color=000000">
   </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> 
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=5391FE&style=for-the-badge&color=000000">
+</a>
 </p>
 
 ---
@@ -135,6 +138,9 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
 </a> 
 <a href="https://www.figma.com/" target="_blank"> 
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=F24E1E&style=for-the-badge&color=000000">
+</a>
+<a href="https://obsidian.md/" target="_blank"> 
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=483699&style=for-the-badge&color=000000">
 </a>
 </p>
 
