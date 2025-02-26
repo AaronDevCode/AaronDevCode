@@ -27,7 +27,7 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
 
-### **💻 Programming Languages **
+### ** 💻 Programming Languages **
 <p align="left">
   <a href="https://www.java.com/" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=ED8B00&style=for-the-badge&color=000000">
