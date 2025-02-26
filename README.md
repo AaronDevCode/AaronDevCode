@@ -17,7 +17,7 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
 
 ---
 
-## 🎓 **Academic training**  
+### **🎓 Academic training**  
 
 ### **Técnico Superior Universitario (TSU) en Desarrollo de Software Multiplataforma**  
 🏫 **Universidad Tecnológica del Centro de Veracruz**  
