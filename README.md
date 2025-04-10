@@ -38,9 +38,7 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=007ACC&style=for-the-badge&color=000000">
   </a>
-  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> 
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=5391FE&style=for-the-badge&color=000000">
-</a>
+ <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=for-the-badge&color=000000">
 </p>
 
 ---
@@ -56,6 +54,9 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=8511FA&style=for-the-badge&color=000000">
   </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=38B2AC&style=for-the-badge&color=000000">
+  </a>
 </p>
 
 ---
@@ -66,10 +67,9 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=6DA55F&style=for-the-badge&color=000000">
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=404d59&style=for-the-badge&color=000000">
-</a>
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=404d59&style=for-the-badge&color=000000">
+  </a>
 </p>
-
 
 ---
 
@@ -102,51 +102,36 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
 
 ### **🖥️ Operating Systems**
 <p align="left">
-  <a href="https://www.microsoft.com/windows" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=0078D6&style=for-the-badge&color=000000">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white&style=for-the-badge&color=000000">
+  <a href="https://www.debian.org/" target="_blank"> 
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33.svg?logo=debian&logoColor=A81D33&style=for-the-badge&color=000000">
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?logo=ubuntu&logoColor=E95420&style=for-the-badge&color=000000">
-</a>
 </p>
 
 ---
 
-### **💻 Code Editors**
+### **💻 Code Editors & IDEs**
 <p align="left">
-  
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=0078d7&style=for-the-badge&color=000000">
-  </a>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=000000">
   <a href="https://developer.android.com/studio" target="_blank"> 
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-346ac1.svg?logo=android-studio&logoColor=346ac1&style=for-the-badge&color=000000">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=3DDC84&style=for-the-badge&color=000000">
   </a>
 </p>
 
 ---
 
 ### **🛠️ Other Tools**
-
-
 <p align="left">
-
   <a href="https://insomnia.rest/" target="_blank"> 
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black.svg?logo=insomnia&logoColor=5849BE&style=for-the-badge&color=000000">
   </a>
   <a href="https://postman.com/" target="_blank"> 
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=FF6C37&style=for-the-badge&color=000000">
-</a> 
-<a href="https://www.figma.com/" target="_blank"> 
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=F24E1E&style=for-the-badge&color=000000">
-</a>
-<a href="https://obsidian.md/" target="_blank"> 
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=483699&style=for-the-badge&color=000000">
-</a>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=FF6C37&style=for-the-badge&color=000000">
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=F24E1E&style=for-the-badge&color=000000">
+  </a>
+  <a href="https://obsidian.md/" target="_blank"> 
+    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=483699&style=for-the-badge&color=000000">
+  </a>
 </p>
-
-
-
-
-
-
-
