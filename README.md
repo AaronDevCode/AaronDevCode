@@ -106,6 +106,14 @@ My name is **Aaron Ramirez**, and I am passionate about software development, fo
   <a href="https://www.debian.org/" target="_blank"> 
     <img alt="Debian" src="https://img.shields.io/badge/Debian-%23A81D33.svg?logo=debian&logoColor=A81D33&style=for-the-badge&color=000000">
   </a>
+
+  <a href="https://manjaro.org/" target="_blank"> 
+  <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?logo=manjaro&logoColor=35BF5C&style=for-the-badge&color=000000">
+</a>
+
+<a href="https://archlinux.org/" target="_blank"> 
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?logo=arch-linux&logoColor=1793D1&style=for-the-badge&color=000000">
+</a>
 </p>
 
 ---
